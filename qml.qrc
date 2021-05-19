@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FONT/roboto/Apache License.txt</file>
+        <file>FONT/roboto/Roboto-Black.ttf</file>
+        <file>FONT/roboto/Roboto-BlackItalic.ttf</file>
+        <file>FONT/roboto/Roboto-Bold.ttf</file>
+        <file>FONT/roboto/Roboto-BoldItalic.ttf</file>
+        <file>FONT/roboto/Roboto-Italic.ttf</file>
+        <file>FONT/roboto/Roboto-Light.ttf</file>
+        <file>FONT/roboto/Roboto-LightItalic.ttf</file>
+        <file>FONT/roboto/Roboto-Medium.ttf</file>
+        <file>FONT/roboto/Roboto-MediumItalic.ttf</file>
+        <file>FONT/roboto/Roboto-Regular.ttf</file>
+        <file>FONT/roboto/Roboto-Thin.ttf</file>
+        <file>FONT/roboto/Roboto-ThinItalic.ttf</file>
+        <file>FONT/roboto.zip</file>
+        <file>IMAGES/curtis-oficial.png</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page1.qml</file>
+    </qresource>
+</RCC>
